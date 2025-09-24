@@ -14,8 +14,8 @@
 
 <div align="">
 
-| <a href="https://lucasfguanabara.xyz" target="_blank">lucasfguanabara.xyz</a> | <a href="https://app.daily.dev/lucasfguanabara" target="_blank">daily.dev</a> | <a href="https://codepen.io/printflucasguanabara" target="_blank">codepen</a> | <a href="https://www.linkedin.com/in/lucas-f-guanabara-1a688b1b7/" target="_blank">linkedin</a> |
-| - | - | - | - |
+| <a href="https://lucasfguanabara.xyz" target="_blank">lucasfguanabara.xyz</a> | <a href="https://app.daily.dev/lucasfguanabara" target="_blank">daily.dev</a> | <a href="https://codepen.io/printflucasguanabara" target="_blank">codepen</a> 
+
 
 <p align="">
   <a href="https://github.com/lucashaddd?tab=overview&from=2023-09-01&to=2023-09-20">Older Account</a>
